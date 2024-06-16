@@ -4,7 +4,7 @@ A dynamic 3D map highlighting the buildings in Miami, Florida that are projected
 **Link to project:** http://recruiters-love-seeing-live-demos.com/
 
 ![alt tag](http://placecorgi.com/1200/650)
-<img src="./GIFs/ArcGIS - City of Miami Beach Sea Level Rise_EmekaEmeche (3).gif" width="320" height="240"/>
+<img src="./T3ch12et/GIFs/ArcGIS - City of Miami Beach Sea Level Rise_EmekaEmeche (3).gif" width="320" height="240"/>
 
 ## How It's Made:
 
