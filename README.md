@@ -9,11 +9,8 @@ A dynamic 3D map highlighting the buildings in Miami, Florida that are projected
 
 **Tech used:** ArcGIS Pro, ArcGIS Online, ArcGIS Living Atlas of the World, ArcGIS 3D Analyst extension
 
-I first downloaded the dataset of Miami. Then I had to transform the 2D map into a 3D map display and later set the extrusion of the buildings. After the extrusion, I joined the tables to transfer attributes for the exact accurate building heights using the join field tool since beforehand every building was the same size even though in real life every building varies in size and structure. To make the buildings more aligned with real life, multipatch layers were created. By using the symbology pane and the rule package file (RPK), instead of flat surface designs for the buildings it shoewed more detailed textures and windows. Not only that but installing the RPK file changed the roof shape of the buildings.
+I first downloaded the dataset of Miami. Then I had to transform the 2D map into a 3D map display and later set the extrusion of the buildings. After the extrusion, I joined the tables to transfer attributes for the exact accurate building heights using the join field tool since beforehand every building was the same size even though in real life every building varies in size and structure. To make the buildings more aligned with real life, multipatch layers were created. By using the symbology pane and the rule package file (RPK), instead of flat surface designs for the buildings it shoewed more detailed textures and windows. Not only that but installing the RPK file changed the roof shape of the buildings. I then added in the data for water and make it into a realistic 3D representation of how it looks like in real life through the symbology pane. After that I set the illumination setting to set the display 3D scene reflect the lighting at certain times of day. The time I set was 8AM.
 
-
-
-Added in data for water and make it into a realistic 3D representation of how it looks like in real life in the symbology pane. After that, I set the illumination setting to set the 3D scene into certain lighting for certain times of day. The time was set at 8AM.
 
 
 Went onto ArcGIS Living Atlas of the World to get layers of intermediate-high sea level rise of the years in 2030, 2050, and 2090 from NOAA's Digital Coast
