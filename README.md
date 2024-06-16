@@ -7,7 +7,7 @@ A dynamic 3D map highlighting the buildings in Miami, Florida that are projected
 
 ## How It's Made:
 
-**Tech used:** ArcGIS Pro, ArcGIS Online, ArcGIS 3D Analyst extension
+**Tech used:** ArcGIS Pro, ArcGIS Online, ArcGIS Living Atlas of the World, ArcGIS 3D Analyst extension
 
 Downloaded dataset that had this
 Then I had to transform the 2D map into a 3D map and later set the extrsuion of the buildings 
