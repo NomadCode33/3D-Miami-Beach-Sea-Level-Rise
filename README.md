@@ -30,5 +30,5 @@ I never would have imagined I could create a map like this; it was definitely a 
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
 
-**Athens Heat Risk Index:** https://github.com/T3ch12et/Athens-Heat-Risk-Index/tree/main
+**Athens Heat Risk Index:** https://github.com/T3ch12et/Athens-Heat-Risk-Index/tree/main <br>
 **Oso Mudslide:** https://github.com/T3ch12et/Oso-Mudslide/tree/main
