@@ -3,7 +3,7 @@ A dynamic 3D map highlighting the buildings in Miami, Florida that are projected
 
 **Link to project:** 
 
-<img alt = "Sea Level Rise GIF" img src="./Athens Heat Risk Index_EmekaEmeche (3).gif"/>
+<img alt = "Sea Level Rise GIF" img src="./ArcGIS - City of Miami Beach Sea Level Rise_EmekaEmeche (3).gif"/>
 
 ## How It's Made:
 
