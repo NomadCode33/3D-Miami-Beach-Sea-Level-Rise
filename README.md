@@ -1,9 +1,9 @@
 # City of Miami Beach Sea Level Rise
 A dynamic 3D map highlighting the buildings in Miami, Florida that are projected to be at risk from rising sea levels by 2050.
 
-**Link to project:** http://recruiters-love-seeing-live-demos.com/
+**Link to project:** 
 
-![alt tag](http://placecorgi.com/1200/650)
+<img alt = "Sea Level Rise GIF" img src="./Athens Heat Risk Index_EmekaEmeche (3).gif"/>
 
 ## How It's Made:
 
