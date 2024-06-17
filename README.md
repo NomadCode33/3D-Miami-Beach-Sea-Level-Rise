@@ -30,4 +30,4 @@ I never would have imagined I could create a map like this; it was definitely a 
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
 
-**Palettable:** https://github.com/alecortega/palettable
+**Athens Heat Risk Index:** https://github.com/T3ch12et/Athens-Heat-Risk-Index/tree/main
